@@ -1,7 +1,13 @@
 K 25
 svn:wc:ra_dav:version-url
 V 68
-/svn/develop/!svn/ver/2/Java/chatroom/src/com/smitechow/www/chatroom
+/svn/develop/!svn/ver/6/Java/chatroom/src/com/smitechow/www/chatroom
+END
+MainClass.java
+K 25
+svn:wc:ra_dav:version-url
+V 83
+/svn/develop/!svn/ver/6/Java/chatroom/src/com/smitechow/www/chatroom/MainClass.java
 END
 Util.java
 K 25
@@ -32,10 +38,4 @@ K 25
 svn:wc:ra_dav:version-url
 V 88
 /svn/develop/!svn/ver/4/Java/chatroom/src/com/smitechow/www/chatroom/ProtocolThread.java
-END
-MainClass.java
-K 25
-svn:wc:ra_dav:version-url
-V 83
-/svn/develop/!svn/ver/6/Java/chatroom/src/com/smitechow/www/chatroom/MainClass.java
 END
